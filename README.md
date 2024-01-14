@@ -26,7 +26,7 @@ The objective of this linear programming problem is to find the combination of t
  - xi ≥ 0, ∀ i
 
 ## Tools
-The linear programming code utilizes the Python PuLP library to minimize the cost function.
+The linear programming code utilizes the Python PuLP library to minimize the cost function. Python code and output plain text files are included in the [repository.](https://github.com/bscov/Assignment1)
 
 ## Results
 ### Original Problem
