@@ -16,13 +16,13 @@ The objective of this linear programming problem is to find the combination of t
 ## Standard Form Equation - Original Problem
  - Objective function: Min Z = (6.29/8)*x1 + (13.59/16)*x2 + (5.49/6)*x3 + (33.99/24)*x4 + (2.49/2)*x5
  - Subject to:
- - 440*x1 + 160*x2 + 320*x3 + 170*x4 + 510*x5 + x6 = (5000*7) - maximum sodium (mg)
- - 230*x1 + 180*x2 + 150*x3 + 220*x4 + 150*x5 + x7 = (2000*7) - minimum energy (kcal)
- - 14*x1 + 8*x2 + 5*x3 + 10*x4 + 7*x5 + x8 = (50*7) - minimum protein (g)
- - 1*x1 + 0.1*x2 + 0.2*x3 + 6*x4 + 0.1*x5 + x9 = (20*7) - minimum vitamin D (mcg)
- - 24*x1 + 150*x2 + 30*x3 + 260*x4 + 40*x5 + x10 = (1300*7) - minimum calcium (mg)
- - 3*x1 + 0.4*x2 + 0.8*x3 + 3.6*x4 + 2.1*x5 + x11 = (18*7) - minimum iron (mg)
- - 155*x1 + 80*x2 + 320*x3 + 290*x4 + 360*x5 + x12 = (4700*7) - minimum potassium (mg)
+ - 440x1 + 160x2 + 320x3 + 170x4 + 510x5 + x6 = (5000*7) - maximum sodium (mg)
+ - 230x1 + 180x2 + 150x3 + 220x4 + 150x5 + x7 = (2000*7) - minimum energy (kcal)
+ - 14x1 + 8x2 + 5x3 + 10x4 + 7x5 + x8 = (50*7) - minimum protein (g)
+ - 1x1 + 0.1x2 + 0.2x3 + 6x4 + 0.1x5 + x9 = (20*7) - minimum vitamin D (mcg)
+ - 24x1 + 150x2 + 30x3 + 260x4 + 40x5 + x10 = (1300*7) - minimum calcium (mg)
+ - 3x1 + 0.4x2 + 0.8x3 + 3.6x4 + 2.1x5 + x11 = (18*7) - minimum iron (mg)
+ - 155x1 + 80x2 + 320x3 + 290x4 + 360x5 + x12 = (4700*7) - minimum potassium (mg)
  - xi ≥ 0, ∀ i
 
 ## Tools
