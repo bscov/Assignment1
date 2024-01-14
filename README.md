@@ -11,7 +11,7 @@ The objective of this linear programming problem is to find the combination of t
  - x3 - Trader Joe’s Tortilla Española - $ 0.92 per serving
  - x4 - BOOST Original Balanced Nutritional Powder Drink Mix, Very Vanilla - $1.42 per serving
  - x5 - Trader Joe’s Indian Fare Madras Lentils - $1.25 per serving
- - NOTE - images of nutrition labels are included in the repository
+ - NOTE - images of nutrition labels are included in the [repository](https://github.com/bscov/Assignment1)
 
 ## Standard Form Equation - Original Problem
  - Objective function: Min Z = (6.29/8)*x1 + (13.59/16)*x2 + (5.49/6)*x3 + (33.99/24)*x4 + (2.49/2)*x5
